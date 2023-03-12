@@ -19,11 +19,11 @@ To install and run the application, follow these steps:
 3. Run the app: flutter run
 
 ## Features
-###Browse Products
+### Browse Products
 On the home screen, browse the available products in the store. This is a screen that displays all the products in the store that you can buy.
 
-###Add Items to Cart
+### Add Items to Cart
 To add items to your cart, simply click the "Add to Cart" button in the product card. This will add the product to your cart and display the total price of all items in your cart at the bottom left of the screen.
 
-###Checkout
+### Checkout
 When you're ready to checkout, click on the "Checkout" button in the bottom right. This will take you to your cart where you can review your order and enter your shipping address. Once you're finished, click the "Submit Order" button and the order will be placed.
